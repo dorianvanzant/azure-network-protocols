@@ -30,7 +30,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/H9f2GPA.png" height="100%" width="100%" alt="Azure Virtual Images"/>
 </p>
 <p>
-Create a Windows 10 VM and an Lunix (Ubuntu) VM under the same resource group and virtual network.
+Create a Windows 10 VM and a Lunix (Ubuntu) VM under the same resource group and virtual network.
 </p>
 <br />
 
