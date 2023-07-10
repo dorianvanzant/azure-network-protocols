@@ -55,7 +55,7 @@ In Wireshark, filter for SSH traffic only. SSH into your Ubuntu Virtual Machine 
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Wireshark, filter for DHCP traffic only. Attempt to issue your VM a new IP address from the command line (ipconfig/new) and observe the DHCP traffic in Wireshark.
+In Wireshark, filter for DHCP traffic only. Attempt to issue your VM a new IP address from the command line (ipconfig/renew) and observe the DHCP traffic in Wireshark.
 <br />
 
 <p>
